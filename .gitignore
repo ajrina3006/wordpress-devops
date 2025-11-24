@@ -1,0 +1,6 @@
+.terraform/
+terrafom.tfstate
+terraform.tfstate.backup
+*.zip
+*.log
+
